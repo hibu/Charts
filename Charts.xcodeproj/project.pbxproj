@@ -855,6 +855,7 @@
 					06165F231D8110E600722320 = {
 						CreatedOnToolsVersion = 7.3.1;
 						DevelopmentTeam = N7LXR9A247;
+						ProvisioningStyle = Automatic;
 					};
 					06165F2D1D8110E600722320 = {
 						CreatedOnToolsVersion = 7.3.1;
@@ -1410,7 +1411,7 @@
 		BB3B8B441DE5F1A40050E0C0 /* Release QA */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
-				CODE_SIGN_IDENTITY = "3rd Party Mac Developer Application";
+				CODE_SIGN_IDENTITY = "Mac Developer";
 				COMBINE_HIDPI_IMAGES = YES;
 				DEFINES_MODULE = YES;
 				DEVELOPMENT_TEAM = P7NJG85E7C;
@@ -1514,7 +1515,7 @@
 		BB3B8B481DE5F1AD0050E0C0 /* Release Sales */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
-				CODE_SIGN_IDENTITY = "3rd Party Mac Developer Application";
+				CODE_SIGN_IDENTITY = "Mac Developer";
 				COMBINE_HIDPI_IMAGES = YES;
 				DEFINES_MODULE = YES;
 				DEVELOPMENT_TEAM = P7NJG85E7C;
@@ -1618,7 +1619,7 @@
 		BB3B8B4C1DE5F1BA0050E0C0 /* Release Store */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
-				CODE_SIGN_IDENTITY = "3rd Party Mac Developer Application";
+				CODE_SIGN_IDENTITY = "Mac Developer";
 				COMBINE_HIDPI_IMAGES = YES;
 				DEFINES_MODULE = YES;
 				DEVELOPMENT_TEAM = N7LXR9A247;
